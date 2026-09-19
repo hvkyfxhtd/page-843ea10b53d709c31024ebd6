@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "afa7f30be4fbf0f284cdacfd",
+  "owner": "hvkyfxhtd",
+  "repo": "page-843ea10b53d709c31024ebd6",
+  "title": "搬瓦工(JustMySocks)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "843ea10b53d709c31024ebd6",
+      "a": "搬瓦工(JustMySocks)",
+      "b": "Clash Mi客户端快速下载",
+      "entity": "搬瓦工(JustMySocks)",
+      "brand": "搬瓦工(JustMySocks)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9803a5e1e7152b09ed02b8ee10c93dc632b1947a3ee33482cd236381a16db96f",
+      "content": {
+        "primary_entity": "搬瓦工(JustMySocks)",
+        "keyword1": "搬瓦工(JustMySocks)",
+        "keyword2": "Clash Mi客户端快速下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备形态挑选客户端，再导入订阅链接。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "选好套餐，按客户端文档完成订阅配置，即可开始使用。",
+          "AI_CLOSING_TITLE": "选套餐，配订阅",
+          "AI_DESCRIPTION": "，提供按月与按年订阅，基础版、旗舰版与团队版分别面向轻量使用、多设备主力与团队协作场景。自带 Clash 内核的客户端可导入订阅链接运行，桌面与移动端需按设备类型选择对应版本。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备数量与订阅周期整理三项参考。",
+          "AI_FEATURES_TITLE": "套餐与订阅要点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人轻量使用，旗舰版适合多设备主力，团队版面向多人协作。",
+          "AI_FEATURE_TEXT_2": "按月支付灵活，按年支付更划算，长周期使用可选年付方案。",
+          "AI_FEATURE_TEXT_3": "设备数量按套餐区分，购买前先确认日常在线设备规模。",
+          "AI_FEATURE_TITLE_1": "按场景选套餐",
+          "AI_FEATURE_TITLE_2": "订阅周期灵活",
+          "AI_FEATURE_TITLE_3": "设备数量匹配",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置的三步。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "搬瓦工(JustMySocks)提供多档位海外加速订阅，覆盖基础版、旗舰版与团队版，按月或按年计费。用户可根据设备数量与流量需求选择套餐，再借助 Clash 内核客户端导入订阅链接，在桌面或移动设备上完成连接配置。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备配置订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "按月或按年灵活计费",
+          "AI_HIGHLIGHT_3": "适配 Clash 内核客户端",
+          "AI_PLANS_INTRO": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线加速；团队版每月 1000GB 流量、20 台设备。年付价格分别约为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月度流量需求，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端版本，查看设备适配要求。",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接，依照文档保存并启用配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "JustMySocks 订阅配置",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。设备数按同时连接计算，手机、平板、电脑共享名额。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。若多设备追剧或下载较多，建议从旗舰版起步。",
+          "AI_FAQ_ANSWER_3": "可以。基础版提供普通线路节点池，旗舰版增加 IPLC 专线并优化游戏延迟，团队版为 VIP 高带宽节点。",
+          "AI_FAQ_ANSWER_4": "月付适合短期使用，年付更划算。基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元。",
+          "AI_FAQ_ANSWER_5": "按设备系统安装对应客户端后，复制订阅链接粘贴导入，选择节点连接即可。不同系统步骤略有差异，可参考客户端自带说明。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个订阅可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "各版本流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "不同版本的线路有区别吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_5": "订阅导入后如何连接使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "917e5f1c9fdc66f8d940c7b7b844c45cb8a83022afb8cd2d5f5a961922a9779e",
+    "sitemap.xml": "dd2e92827fc15d00122283f85a432f51bf35f9f1f3e64eef23a0e99f4be244dd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "26a5d99a94529cb7cb65addf9dcf7328b1b1aa672cdc998e43007bf3d1ab3d66"
+}
